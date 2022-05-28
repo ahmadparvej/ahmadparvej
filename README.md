@@ -1,4 +1,3 @@
 ### Hi I'm PARVEJ AHMAD 👋
 
-
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1Hd0ziHsbERyDVIZkIWfbjhp1kxQrLs3W/view?usp=sharing))
+An enthusiastic and result-driven Full-stack web developer dedicated to building optimized user-focused websites. Some technology I enjoy working with React.js, Redux and JavaScript. 
