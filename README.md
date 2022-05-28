@@ -1,3 +1,4 @@
-### Hi there 👋
+### Hi I'm PARVEJ AHMAD 👋
 
-HI I'm PARVEJ AHMAD
+
+![alt text](http://url/to/img.png)
