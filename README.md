@@ -1,5 +1,3 @@
-![A Developer](https://pbs.twimg.com/profile_banners/1351584144384380929/1654000547/1080x360)
-
 ### Hi there 👋, I'm Parvej Ahmad
 An enthusiastic and result-driven Full-stack web developer dedicated to building optimized user-focused websites. Some technology I enjoy working with React.js, Redux and JavaScript. 
 
