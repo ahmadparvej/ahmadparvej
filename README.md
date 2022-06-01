@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Parvej Ahmad
-An enthusiastic and result-driven Full-stack web developer dedicated to building optimized user-focused websites. Some technology I enjoy working with React.js, Redux and JavaScript. 
+An enthusiastic and result-driven Full-stack web developer from India dedicated to building optimized user-focused websites. Some technology I enjoy working with React.js, Redux and JavaScript. 
 
 ## Skills
 REACT / Redux / JS / HTML / CSS / Chakra UI
