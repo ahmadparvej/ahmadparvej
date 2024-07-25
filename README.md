@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parvej Ahmad</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m specialized in **NextJS / MERN Stack**
+- 🌱 I’m specialized in **Angular / NextJS / MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://parvej-ahmad-profile.netlify.app/](https://parvej-ahmad-profile.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React/angular**
 
 - 📫 How to reach me **ahmadparvej58@gmail.com**
 
